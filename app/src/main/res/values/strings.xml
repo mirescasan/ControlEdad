@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ControlEdad</string>
+
+    <!-- Pantalla principal -->
+    <string name="titulo">Control de edad</string>
+    <string name="hint_nombre">Introduce tu nombre</string>
+    <string name="hint_edad">Introduce tu edad</string>
+    <string name="btn_comprobar">Comprobar edad</string>
+    <string name="btn_limpiar">Limpiar</string>
+    <!-- %1$d = hueco para un número entero -->
+    <string name="contador">Comprobaciones: %1$d</string>
+    <string name="toast_nombre_vacio">Escribe tu nombre</string>
+    <string name="toast_edad_invalida">Introduce una edad válida</string>
+
+    <!-- Pantalla de resultado. %1$s = hueco para un texto (el nombre) -->
+    <string name="bienvenida">Bienvenido/a %1$s</string>
+    <string name="msg_menor">%1$s es menor de edad</string>
+    <string name="msg_justo">%1$s acaba de alcanzar la mayoría de edad</string>
+    <string name="msg_mayor">%1$s es mayor de edad</string>
+    <string name="btn_volver">Volver</string>
+    <string name="btn_compartir">Compartir resultado</string>
+    <string name="selector_compartir">Compartir con…</string>
+    <string name="toast_sin_apps">No hay ninguna app para compartir</string>
+</resources>
